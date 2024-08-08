@@ -8,6 +8,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="" src="![python (2)](https://github.com/user-attachments/assets/7604569f-c3bb-4415-8673-379b8f9badc1)">
+ <img alt="" src="[python (2)](https://github.com/user-attachments/assets/7604569f-c3bb-4415-8673-379b8f9badc1)">
 </picture>
 
