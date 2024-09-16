@@ -8,5 +8,6 @@
 - Python programming
 - Pandas & Numpy
 - Matplotlib & Seaborn
+- Scikit-Learn & Tensorflow (Keras)
 - HTML & CSS & JavaScript
 
